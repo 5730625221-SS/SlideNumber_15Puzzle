@@ -1,5 +1,5 @@
 #Slide Number Puzzle (15Puzzle)
-Design and Develop game with **C++** and **OpenGL** : The return of childhood game **'15puzzle'**, in form of 3D games which available in both Window OS and Android. 
+The return of childhood game **'15puzzle'**, in form of 3D games which available in both Window OS and Android. 
 //Don't have in Android platform NOW!
 
 ##Control
