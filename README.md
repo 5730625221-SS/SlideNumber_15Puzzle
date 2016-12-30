@@ -2,6 +2,8 @@
 The return of childhood game **'15puzzle'**, in form of 3D games which available in both Window OS and Android. 
 //Don't have in Android platform NOW!
 
+> [Presentation and models](/15Puzzle/material/)
+
 ##Control
 
 Press Q to start
