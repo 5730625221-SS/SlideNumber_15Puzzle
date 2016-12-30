@@ -1,0 +1,17 @@
+﻿  main.cpp
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(122): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(482): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(515): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(515): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(577): warning C4018: '<': signed/unsigned mismatch
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(579): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(580): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(587): warning C4018: '<': signed/unsigned mismatch
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(589): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(590): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(598): warning C4018: '<': signed/unsigned mismatch
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(600): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(601): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\drive (d.)\cg\15puzzle\15puzzle\main.cpp(111): warning C4172: returning address of local variable or temporary: norm
+  15Puzzle.vcxproj -> D:\Drive (D.)\CG\15Puzzle\Debug\15Puzzle.exe
+  15Puzzle.vcxproj -> D:\Drive (D.)\CG\15Puzzle\Debug\15Puzzle.pdb (Partial PDB)
