@@ -1,10 +1,10 @@
-#Slide Number Puzzle (15Puzzle)
+# Slide Number Puzzle (15Puzzle)
 The return of childhood game **'15puzzle'**, in form of 3D games which available in both Window OS and Android. 
 //Don't have in Android platform NOW!
 
 > [Presentation and models](/15Puzzle/material/)
 
-##Control
+## Control
 
 Press Q to start
 
@@ -18,7 +18,7 @@ Press G to Reset board
 
 Press Z | X to zoom in/out
 
-##Reference
+## Reference
 
 **How to Set up OpenGL and GLUT in Visual Studio (C++)**
 
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=8p76pJsUP44
 
 http://www.videotutorialsrock.com/
 
-##Developed by
+## Developed by
 
 **5630576021  Miss Sirada Thoungvitayasutee**
 
@@ -40,7 +40,7 @@ http://www.videotutorialsrock.com/
 
 **5730625221 Mr.Sitthichai Saejia**
 
-##About
+## About
 
 Final Project of "COMPUTER GRAPHIC" 2016/1.
 
