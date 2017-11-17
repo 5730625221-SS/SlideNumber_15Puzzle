@@ -32,11 +32,11 @@ http://www.videotutorialsrock.com/
 
 **5630576021  Miss Sirada Thoungvitayasutee**
 
-**5730593821 Mr.Supakrit Paoliwat**
+[**5730593821 Mr.Supakrit Paoliwat**](https://github.com/stepboom)
 
 **5730604021 Mr.Suppasek Leesomprasong** 
 
-**5730611421 Mr.Sorachach Panomchaisawang**
+[**5730611421 Mr.Sorachach Panomchaisawang**](https://github.com/5730611421-SP)
 
 **5730625221 Mr.Sitthichai Saejia**
 
